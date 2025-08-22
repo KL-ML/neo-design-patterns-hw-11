@@ -1,0 +1,26 @@
+{
+  "name": "neo-design-patterns-hw-11",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.ts",
+  "scripts": {
+    "start": "npx ts-node main.ts",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KL-ML/neo-design-patterns-hw-11.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KL-ML/neo-design-patterns-hw-11/issues"
+  },
+  "homepage": "https://github.com/KL-ML/neo-design-patterns-hw-11#readme",
+  "devDependencies": {
+    "@types/node": "^24.3.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.2"
+  }
+}
